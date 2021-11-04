@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi, it's KreatorDev 👋
 
-<!--
-**KreatorDev/KreatorDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📱 Expanding my knowlegde / breaking routines.
+- 📥 DM: nowkreator@gmail.com
 
-Here are some ideas to get you started:
+---
+### Latest Projects:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- PROJECTS:START -->
+- [UniTrade - College Marketplace](https://apps.apple.com/us/app/unitrade/id1587195199)
+- [Songbird - listen together](https://apps.apple.com/us/app/songbird-listen-together/id1572218061)
+- [DormLive - Audio Spaces For Students](https://apps.apple.com/us/app/dormlive/id1553996014)
+- [Nonga - Meet African & Black Singles](https://apps.apple.com/tn/app/nonga/id1549916484)
+- [TuneShare - Gift your favorite music](https://apps.apple.com/us/app/tuneshare/id1577296426)
+- [Kibbit - Campus AMA](https://apps.apple.com/us/app/kibbit-campus-ama/id1547609144)
+<!-- PROJECTS:END -->
+
+[more...](https://kreatordev.com)
